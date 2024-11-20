@@ -8,3 +8,7 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <a href src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙏𝙀𝘾𝙃╺+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+-+𝙈𝘿.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙒𝙄𝙏𝙀+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙈𝘿;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙏𝙄𝙈𝙉𝘼𝙎𝘼.𝗧𝗘𝗖𝗛;𝙒𝙄𝙏𝙀:+🔥𝙍𝙀𝙙༒𝙏𝙄𝙈𝙉𝘼𝙎𝘼࿐;💕𝙋𝙊𝙒𝙀𝙍+𝙛𝙪𝙡𝙡;🔥𝙬𝙖+𝙋𝙤𝙬𝙚𝙧🔥.&heart;++;Self-taught+Back-Created+By,;𝙩𝙞𝙢𝙣𝙖𝙨𝙖+𝙩𝙞𝙢𝙣𝙖𝙨𝙖+𝙖𝙢+The,;Best+Is+Bot+For+You+To,;𝘿𝙀𝙋𝙇𝙊𝙔..<3"></a>
+ <a href="https://files.catbox.moe/hdhlyw.gif">
+ <img alt="𝙏𝙄𝙈𝙉𝘼𝙎𝘼-𝙈𝘿" height="300" src="https://files.catbox.moe/hdhlyw.gif">
