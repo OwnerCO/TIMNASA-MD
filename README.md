@@ -1,15 +1,15 @@
 </h1> 
-<p align="center">✌️ℍ𝔸ℕ𝕊 𝕄𝔻 ℕ𝔼𝕎 ℕ𝔼𝕎 𝕌ℙ𝔻𝔸𝕋𝔼✨ 
+<p align="center">THIS IS TIMNASA-MD 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝙃𝙄+𝙒𝙀𝙇𝘾𝙊𝙈𝙀+✌️𝙏𝙊+𝙃𝘼𝙉𝙎+𝙈𝘿+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝙃𝙄+𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙏𝙄𝙈𝙉𝘼𝙎𝘼+𝙈𝘿+" alt="Typing SVG" /></a>
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
- <img alt="𝙃𝘼𝙉𝙎 𝕄𝔻 𝕍1" height="300" src="https://files.catbox.moe/v2c8de.jpeg">
+ <img alt="𝙏𝙄𝙈𝙉𝘼𝙎𝘼 𝙈𝘿" height="300" src="https://files.catbox.moe/v2c8de.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
