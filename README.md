@@ -73,7 +73,8 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
  GET SESSION ID 
- 
+ 3. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+
 
 <a href="https://hans-md-session-id-6du8.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
