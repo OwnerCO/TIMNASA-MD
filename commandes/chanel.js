@@ -7,7 +7,7 @@ zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (de
     let z = 'Salut je m\'appelle *TIMNASA 😎_MD* \n\n ' + 'je suis un bot Whatsapp Multi-appareil voici la chaîne';
     let d = ' developpé par *Timnasa Tech🏹*';
     let varmess = z + d;
-    var lien = 'https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31';  // Remplacez cet URL par le lien que vous souhaitez envoyer
+    var lien = 'https://whatsapp.com/channel/0029VarwsIB8F2pG9QWm3n1ZjweHxKQuJP6qnjLM31';  // Remplacez cet URL par le lien que vous souhaitez envoyer
     await zk.sendMessage(dest, { text: varmess + "\n" + lien });
 });
 
