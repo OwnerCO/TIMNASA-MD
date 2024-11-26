@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "🛠️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/HANSTZ3/TIMNASA-MD';
+  const githubRepo = 'https://api.github.com/repos/TIMNASATZ/TIMNASA-MD';
   const img = 'https://telegra.ph/file/347ba7a613b4d025b89a8.jpg';
 
   try {
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🛠️", nomFichier:
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *HANS_MD .*\n support our channel *by*,  https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4
+this is* *TIMNASA-MD.*\n support our channel *by*,  https://whatsapp.com/channel/0029VarwsIB8F2pG9QWm3n1Z
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -37,7 +37,7 @@ this is* *HANS_MD .*\n support our channel *by*,  https://chat.whatsapp.com/Ia4V
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
-││  │ _*Made With hanstz Tech*_
+││  │ _*Made With Timnasa Tech*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
 ╰─────────────────────➳ 
