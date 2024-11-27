@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Halisi1234/TIMNASA-MD"><b>𝙃𝘼𝙉𝙎 𝙈𝘿 ✌️</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Halisi1234/TIMNASA-MD"><b>𝙏𝙄𝙈𝙉𝘼𝙎𝘼 𝙈𝘿 ✌️</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -133,8 +133,8 @@ The WhatsApp Bot TIMNASA 𝙈𝘿 ✌️ made in Tanzania by TIMNASA tech
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_𝕄𝔻 🌟
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ :
-
-- [**🄷🄰🄽🅂 TECH**](https://github.com/Mrhanstz)
+- [**𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛**](https://github.com/Halisi1234/TIMNASA-MD-)
+- [**🄷🄰🄽🅂 TECH**](https://github/harnstz)
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
 
